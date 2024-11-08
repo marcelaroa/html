@@ -1,9 +1,23 @@
 h3{   
     color: rgb(204, 88, 88);
 }
-p{
-    color: #484b75;
+.primer-color{
+    color: rgb(35, 116, 187);
+}
+.segundo-color{
+    color: #2b0ebb;
 }
 h2{
     color: rgb(201, 107, 30);
+}
+h1{
+    color: #484b75;
+    background: #487575;
+    font-size: 55px;
+    font-weight: bold;
+}
+#Lista{
+    color: chocolate;
+    background-color: brown;
+    background-size: 35px;
 }
